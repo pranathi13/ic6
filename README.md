@@ -1,7 +1,7 @@
 # ic-06
 ic-06 - Intro to JavaScript
 
-Link to GitHub Pages: `[https://pranathi13.github.io/ic6/]`
+Link to GitHub Pages: [insert your clickable hyperlink here](https://pranathi13.github.io/ic6/)
 
 ## Purpose
 
